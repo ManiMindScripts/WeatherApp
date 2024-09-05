@@ -79,3 +79,20 @@ body{
     font-size: 28px;
     margin-top: -6px;
 }
+.forecast {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.forecast-day {
+    width: 45%;
+    text-align: center;
+}
+.forecast-icon {
+    width: 50px;
+    margin-top: 10px;
+}
+.forecast-temp {
+    font-size: 24px;
+    margin-top: 10px;
+}
